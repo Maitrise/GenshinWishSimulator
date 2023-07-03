@@ -1,0 +1,2 @@
+# GenshinWishSimulator
+Telegram Bot
