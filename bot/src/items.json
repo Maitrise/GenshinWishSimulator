@@ -1,0 +1,1334 @@
+[
+    {
+        "name": "Albedo",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Albedo_Full_Wish.png/"
+    },
+    {
+        "name": "Alhaitham",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I'm Alhaitham, the Akademiya's scribe. If you wish to access an archived file, please submit an application according to the prescribed format.Oh, your form isn't ready? Not to worry. You can come again on the next working day. My work hours are posted outside the office.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Alhaitham_Full_Wish.png/"
+    },
+    {
+        "name": "Aloy",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Character_Aloy_Full_Wish.png/"
+    },
+    {
+        "name": "Amber",
+        "item_type": "FourStarCharacter",
+        "description": "Outrider Amber reporting for duty! Just say the word if you ever need my help!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Character_Amber_Full_Wish.png/"
+    },
+    {
+        "name": "Arataki Itto",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I'm the head honcho of the Arataki Gang, and everyone knows my name...s. Names, I have many. Arataki \"The One and Oni\" Itto, Arataki \"The Oni Sumo King\" Itto, Arataki \"The Pride of Oni\" Itto, Arataki \"Beetle Gladiator\" Itto, Arataki \"The Ultimate TCG Champion\" Itto, Arataki \"He Might Lose but He'll Never Admit Defeatto\"... Anyway, these are some of the ones I usually go by, so go ahead, take your pick. I'll respond to whichever one you choose, I promise. Hehe, you're welcome.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Arataki_Itto_Full_Wish.png/"
+    },
+    {
+        "name": "Baizhu",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Hello. I am Baizhu, a practitioner of medicine at Bubu Pharmacy. So, are you experiencing any discomfort? If so, where? And how many days have the symptoms persisted? Hmm? You don't require medical attention? Oh, so you came to see me... Ah, then I'm sorry, I'm afraid I must ask you to wait. I'd like to see the other patients first before discussing things any further.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Character_Baizhu_Full_Wish.png/"
+    },
+    {
+        "name": "Barbara",
+        "item_type": "FourStarCharacter",
+        "description": "Tada! *giggles* Barbara is here~ Leave the healing to me, I will not disappoint you!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Barbara_Full_Wish.png/"
+    },
+    {
+        "name": "Beidou",
+        "item_type": "FourStarCharacter",
+        "description": "I'm Beidou. You've heard of my ship, The Crux and its crew? If you too love adventure, then join me. I've got your back.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Character_Beidou_Full_Wish.png/"
+    },
+    {
+        "name": "Bennett",
+        "item_type": "FourStarCharacter",
+        "description": "This is your team? Cool... I like the vibe. I'm Bennett, leader of Benny's Adventure Team. Any chance we can team up? Please?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Character_Bennett_Full_Wish.png/"
+    },
+    {
+        "name": "Candace",
+        "item_type": "FourStarCharacter",
+        "description": "Welcome, weary Traveler from afar. Nights in the desert are cruel. You should rest here tonight. Sleep soundly, and know that I am watching over you.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Candace_Full_Wish.png/"
+    },
+    {
+        "name": "Chongyun",
+        "item_type": "FourStarCharacter",
+        "description": "My name is Chongyun. My family has practiced the art of exorcism in Liyue for many generations. Fate has been generous in allowing my path to cross with that of your distinguished self. ...Oh, no \u2014 my services are free of charge!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Chongyun_Full_Wish.png/"
+    },
+    {
+        "name": "Collei",
+        "item_type": "FourStarCharacter",
+        "description": "Trainee Forest Ranger Collei, reporting for duty! I will ensure your safe passage through this forest. ...Phew, I think I've finally got that line down! ...I\u2014I didn't get any of it wrong, did I?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Collei_Full_Wish.png/"
+    },
+    {
+        "name": "Cyno",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I'm Cyno, General Mahamatra of the Akademiya. It's my duty to uphold the rules, and punish wrongdoing. I will protect you on your journey.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Character_Cyno_Full_Wish.png/"
+    },
+    {
+        "name": "Dehya",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "My name's Dehya. I'm the merc you hired. So what you got for me? A commission? A fight? Armed escort? Whatever it is \u2014 you know where to find me.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Character_Dehya_Full_Wish.png/"
+    },
+    {
+        "name": "Diluc",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Character_Diluc_Full_Wish.png/"
+    },
+    {
+        "name": "Diona",
+        "item_type": "FourStarCharacter",
+        "description": "Diona, bartender of the Cat's Tail! I charge a hefty fee for private events. Huh? You didn't come here for a drink? Hmm... Then I accept your invitation... I suppose...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Character_Diona_Full_Wish.png/"
+    },
+    {
+        "name": "Dori",
+        "item_type": "FourStarCharacter",
+        "description": "Oh! Well if it isn't the renowned Traveler! I'm Dori Sangemah Bay, a traveling merchant. As an introductory gift, you can enjoy a 10% discount on all my wares and merchandise. Feel free to have a look. I'll even help package up your purchase, free of charge.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Dori_Full_Wish.png/"
+    },
+    {
+        "name": "Eula",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Captain Eula Lawrence, Spindrift Knight, Knights of Favonius Reconnaissance Company. I extend to you my greetings. Huh? What's that...? Yes, Lawrence, the evil aristocrats of historical infamy. Oh, we're still very much evil. Just look at me, I'm infiltrating the inner ranks of the Knights of Favonius, all as part of a diabolical plan to exact our revenge and reclaim our former glory!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Character_Eula_Full_Wish.png/"
+    },
+    {
+        "name": "Faruzan",
+        "item_type": "FourStarCharacter",
+        "description": "Here's the Akademiya's Distinguished Scholar Award, this is the Sumeru Puzzlers' League Lifetime Achievement Award, and there's something from the Synopsium on Ruin Mechanisms... What do you think? Got any interest in becoming my student? Ahem, just as a note, I am from the Haravatat Darshan. You'll get lost if you try to find me in the halls of Kshahrewar.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Character_Faruzan_Full_Wish.png/"
+    },
+    {
+        "name": "Fischl",
+        "item_type": "FourStarCharacter",
+        "description": "Fischl: I, Fischl, Prinzessin der Verurteilung, descend upon this land by the call of fate an\u2014 Oh, you are also a traveler from another world? Very well, I grant you permission to travel with me.Oz: She means, \"Nice to meet you.\"",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Fischl_Full_Wish.png/"
+    },
+    {
+        "name": "Ganyu",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Copy that! Here is a draft Service Agreement for your review and consideration. Effective immediately, if all is in order... Ah! Wait a sec, wait a sec, I forgot to sign it... Gan... Yu... There. Right. Now... What was it you needed me to do for you exactly?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Ganyu_Full_Wish.png/"
+    },
+    {
+        "name": "Gorou",
+        "item_type": "FourStarCharacter",
+        "description": "General Gorou of the Watatsumi Island resistance, ready and waiting! I've long heard of your sterling reputation and I look forward to fighting our way to victory side-by-side! ...Heh, so what do you think? Did that sound inspiring?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Character_Gorou_Full_Wish.png/"
+    },
+    {
+        "name": "Hu Tao",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Yoh, now why might you be looking for me, hm? Oh, you didn't know? I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao. Though by the looks of you... Radiant glow, healthy posture... Yes, you're definitely here for something other than that which falls within my regular line of work, aren't you?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/"
+    },
+    {
+        "name": "Jean",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "I am Jean, the Dandelion Knight, requesting approval to join your party. From this day onwards, my honor and loyalty lie with you.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Character_Jean_Full_Wish.png/"
+    },
+    {
+        "name": "Kaedehara Kazuha",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "\"Come driving rain or winds that churn, I shall return, by blade alone, armed, if barefoot, to my home...\" I am Kaedehara Kazuha, a wanderer who roams the land. Since we are both travelers, let us journey together for a time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Character_Kaedehara_Kazuha_Full_Wish.png/"
+    },
+    {
+        "name": "Kaeya",
+        "item_type": "FourStarCharacter",
+        "description": "Kaeya, Knight of Favonius. Please allow me to join you on your journey. Guarding you on your journey sounds far more entertaining than any of the usual Favonius stuff.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/"
+    },
+    {
+        "name": "Kamisato Ayaka",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Master of Inazuma Kamisato Art Tachi Jutsu \u2014 Kamisato Ayaka, present!Delighted to make your acquaintance.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Character_Kamisato_Ayaka_Full_Wish.png/"
+    },
+    {
+        "name": "Kamisato Ayato",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Greetings. Ayaka has mentioned you on numerous occasions \u2014 alas, my schedule has been rather busier than anticipated recently, which belated our first meeting until today. Kamisato Ayato, head of the Kamisato Clan. Delighted to make your acquaintance.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Kamisato_Ayato_Full_Wish.png/"
+    },
+    {
+        "name": "Kaveh",
+        "item_type": "FourStarCharacter",
+        "description": "I'm glad you gave me a chance. I always think it takes people with similar tastes to sustain a pleasant conversation.Nice to meet you \u2014 I'm Kaveh, an architect. If you have a project you'd like me to work on, then I'll need a detailed description of what you have in mind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Kaveh_Full_Wish.png/"
+    },
+    {
+        "name": "Keqing",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "I am Keqing, Yuheng of the Liyue Qixing. We live in an era of change, as the old order that has existed for a thousand years is about to be rewritten. Join me. Let us bear witness to this historical moment together.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Character_Keqing_Full_Wish.png/"
+    },
+    {
+        "name": "Kirara",
+        "item_type": "FourStarCharacter",
+        "description": "I'm Kirara, a courier for Inazuma's Komaniya Express. Rest assured, there's no destination I can't deliver to! Huh? My tails? Oh, I have 'em because I'm a youkai \u2014 a nekomata, to be specific.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Character_Kirara_Full_Wish.png/"
+    },
+    {
+        "name": "Klee",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Spark Knight Klee of the Knights of Favonius, reporting for duty! ...There's some more, but uh, I forgot. I'm not so good at remembering...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Klee_Full_Wish.png/"
+    },
+    {
+        "name": "Kujou Sara",
+        "item_type": "FourStarCharacter",
+        "description": "I am Kujou Sara. You may forget my name, but this you must know: On my watch, Inazuma will always be defended, and the will of the Shogun will always be done. Deity or demon, if you make an enemy of me you will be struck down! Oh, ahem... Don't be so nervous. I have agreed to fight by your side, and I will honor that commitment. I may be uncompromising on matters of great importance, but on most other things, you will find me quite easygoing.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Kujou_Sara_Full_Wish.png/"
+    },
+    {
+        "name": "Kuki Shinobu",
+        "item_type": "FourStarCharacter",
+        "description": "Oh... Hey there! I'm Kuki Shinobu, deputy leader of the Arataki Gang. We offer a wide range of services, including but not limited to transport and logistics, security, home repair, and musical performances. Please feel free to contact me if you need anything. Here's my card.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Character_Kuki_Shinobu_Full_Wish.png/"
+    },
+    {
+        "name": "Layla",
+        "item_type": "FourStarCharacter",
+        "description": "*yawn* ...Hi, I'm Layla, a Rtawahist student... Hmm? Sorry, I didn't sleep well last night, so I'm a bit out of it today \u2014 what did you say, again? ...You wanna team up with me? No, no, it's not that I don't want to, I'm just not sure my crazy sleep schedule will really work for you... But uh, I guess... I look forward to working with you!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Character_Layla_Full_Wish.png/"
+    },
+    {
+        "name": "Lisa",
+        "item_type": "FourStarCharacter",
+        "description": "Hi darling, are you going to be Lisa's little helper? What? Me, a grand mage? That was a long time ago, I'm just a humble librarian now. *chuckles* Don't worry darling, I'll take very good care of you. So...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Lisa_Full_Wish.png/"
+    },
+    {
+        "name": "Mika",
+        "item_type": "FourStarCharacter",
+        "description": "Mika, Front-Line Land Surveyor, Knights of Favonius Reconnaissance Company, reporting in. It's an honor to fight alongside you. If there's anything I can do to support you, just let me know and I'll get to it right away. Anyway, I'll make every effort to navigate us safely and report accurate intel on the enemy!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Character_Mika_Full_Wish.png/"
+    },
+    {
+        "name": "Mona",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I am Astrologist Mona Megistus, meaning \"The Great Astrologist Mona.\" If it is divination you seek from me, then I ask you respect my name by learning it wholly, here and now.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Character_Mona_Full_Wish.png/"
+    },
+    {
+        "name": "Nahida",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Nice to meet you! Hehe, I've actually been watching you for a long time already. My name's Nahida. I might look like a child, but don't be fooled: I understand this world much better than any grown-up. So... can we trade knowledge? I want to hear all about your travel stories. So, what would you like to know in return?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Character_Nahida_Full_Wish.png/"
+    },
+    {
+        "name": "Nilou",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Hello, I'm Nilou from Zubayr Theater. We have one dance scheduled for today, and it's about to start \u2014 keep your eyes peeled!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Nilou_Full_Wish.png/"
+    },
+    {
+        "name": "Ningguang",
+        "item_type": "FourStarCharacter",
+        "description": "I am Ningguang, Tianquan of Qixing. You wish to trade? You be my personal bodyguard, and I will show you how to get ahead in Liyue.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Character_Ningguang_Full_Wish.png/"
+    },
+    {
+        "name": "Noelle",
+        "item_type": "FourStarCharacter",
+        "description": "My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance. Yes, starting right now \u2014 what do you need?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Noelle_Full_Wish.png/"
+    },
+    {
+        "name": "Qiqi",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "I am Qiqi. I am a zombie. And I... forgot what comes next.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Character_Qiqi_Full_Wish.png/"
+    },
+    {
+        "name": "Raiden Shogun",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "No salutations needed. My exalted status shall not be disclosed as we travel among the common folk. I acknowledge that you are a person of superior ability. Henceforth, you will be my guard. Worry not. Should any danger arise, I shall dispose of it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Character_Raiden_Shogun_Full_Wish.png/"
+    },
+    {
+        "name": "Razor",
+        "item_type": "FourStarCharacter",
+        "description": "You smell... *sniff* nice! Let's hunt.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Razor_Full_Wish.png/"
+    },
+    {
+        "name": "Rosaria",
+        "item_type": "FourStarCharacter",
+        "description": "Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister...Huh? You're not a disciple?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Character_Rosaria_Full_Wish.png/"
+    },
+    {
+        "name": "Sangonomiya Kokomi",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I am Sangonomiya Kokomi, the Divine Priestess of Watatsumi Island. My journey with you will be an opportunity to unwind... Ahem, I mean... to survey beyond our borders. Don't worry, I've left behind ample directives in my absence, and have also completed the island's projected development plans. Departing for a brief period will be of little consequence.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Sangonomiya_Kokomi_Full_Wish.png/"
+    },
+    {
+        "name": "Sayu",
+        "item_type": "FourStarCharacter",
+        "description": "Sayu, Shuumatsuban, at your disposal! Whew, but if you don't need me right now, I'm gonna grab some sleep. Nope, no need to tuck me in \u2014 I need the extra room to grow into.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Character_Sayu_Full_Wish.png/"
+    },
+    {
+        "name": "Shenhe",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "My name is Shenhe. I was born fated to bear the curse of calamity, so I am prone to bring harm to the people around me. The adepti urged me to bind my soul with red ropes to keep my homicidal nature at bay. If you are able to walk alongside me without fear... Hah, very well. Now, give me your hand.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Character_Shenhe_Full_Wish.png/"
+    },
+    {
+        "name": "Shikanoin Heizou",
+        "item_type": "FourStarCharacter",
+        "description": "The name's Shikanoin Heizou, sharpest and most successful detective of the Tenryou Commission... Ooh, my goodness, life's really put you through the wringer recently, hasn't it? I can tell. Here, why don't you take a seat, tell me the whole story.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Character_Shikanoin_Heizou_Full_Wish.png/"
+    },
+    {
+        "name": "Sucrose",
+        "item_type": "FourStarCharacter",
+        "description": "I'm Sucrose, a researcher of alchemy. I heard you've been to a lot of places, so I was wondering if you... Ah, what am I saying! It's only our first time meeting, I shouldn't trouble you. But... if you're willing, I'd love to hear any stories you have about your adventures. I'd... really like that.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Character_Sucrose_Full_Wish.png/"
+    },
+    {
+        "name": "Tartaglia",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I'm No. 11 of the Fatui Harbingers, codename Childe, but I also go by Tartaglia. And you... Hmm, you too like to cause quite the stir, don't you? Something tells me we're going to get along splendidly.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Character_Tartaglia_Full_Wish.png/"
+    },
+    {
+        "name": "Thoma",
+        "item_type": "FourStarCharacter",
+        "description": "It's good to meet you at last, Traveler. I've been hearing about you for a long time now. I'm your new buddy, Thoma \u2014 as long as that's okay with you, of course!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Character_Thoma_Full_Wish.png/"
+    },
+    {
+        "name": "Tighnari",
+        "item_type": "FiveStarCharacterStandard",
+        "description": "Hi there. I'm Tighnari, Forest Watcher of the Avidya Forest. My duty is to preserve both the rainforest's ecosystem and the safety of its visitors. If this is your first time here, I suggest you first peruse the Avidya Forest Survival Guide, paying particular attention to the chapter \"Distinguishing Between Edible and Poisonous Mushrooms.\"",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/"
+    },
+    {
+        "name": "Venti",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "*Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Character_Venti_Full_Wish.png/"
+    },
+    {
+        "name": "Wanderer",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "You want me to introduce myself? I've gone by many names and titles during my journey. Although each one is more eminent than any ordinary mortal could imagine, they're all just water under the bridge to me now.Call me whatever you like. Go ahead, let me see what you can come up with. Don't disappoint me.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Character_Wanderer_Full_Wish.png/"
+    },
+    {
+        "name": "Xiangling",
+        "item_type": "FourStarCharacter",
+        "description": "Hello, nice to meet you! My name is Xiangling, I'm a chef from Liyue! My favorite place is the chicken... I mean, the kitchen! Ugh, I practiced so hard, but I still get nervous when introducing myself... Heh.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/"
+    },
+    {
+        "name": "Xiao",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "If you awake to a knife at your throat, if monsters dig their claws into you, if death comes knocking at your door, call out my name. Adeptus Xiao. I will be here when you call.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Character_Xiao_Full_Wish.png/"
+    },
+    {
+        "name": "Xingqiu",
+        "item_type": "FourStarCharacter",
+        "description": "Xingqiu at your service, my liege! I humbly trust that even one such as I, a mere bookworm, may yet prove to be of some utility under your wise leadership. Nice, I don't often get a chance to speak with such formality. It felt pretty good!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Character_Xingqiu_Full_Wish.png/"
+    },
+    {
+        "name": "Xinyan",
+        "item_type": "FourStarCharacter",
+        "description": "Xinyan's the name, an' rock 'n' roll's the game \u2014 and I'm the only one who plays it in Liyue Harbor. Been thinking about staging concerts elsewhere lately, but... Hmm... Well, word is that you've been all over the place, Traveler. So, what say you sign me up for your world tour? Anywhere's good!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Character_Xinyan_Full_Wish.png/"
+    },
+    {
+        "name": "Yae Miko",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "I am the Guuji of the Grand Narukami Shrine. The purpose of my visit is to monitor your every move, for such is the order of the shrine... Oh, come on, don't be so nervous. It's only officialese, for goodness' sake. I couldn't just go gallivanting around for no reason at all, could I? Now, come on, do something amusing for me.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Character_Yae_Miko_Full_Wish.png/"
+    },
+    {
+        "name": "Yanfei",
+        "item_type": "FourStarCharacter",
+        "description": "My name is Yanfei, top legal expert in Liyue and for the avoidance of doubt, no one else comes close! From commercial litigation, to civil mediation, to criminal lawsuits, I'm fully versed in every area of the law, and I guarantee you a swift and satisfactory conclusion to your case! My contact details... Where should I write this down? ...Hmm, paper will just get lost, and it'll only rub off if I write it on the back of your hand, so... Aha! I know, I'll just write it here, on the clothes of this... whatever this thing is that follows you around.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Character_Yanfei_Full_Wish.png/"
+    },
+    {
+        "name": "Yaoyao",
+        "item_type": "FourStarCharacter",
+        "description": "Hello, I'm Yaoyao, a lowly disciple of the adeptus, Streetward Rambler. It's a pleasure to make your acquaintance! If you encounter any difficulties outdoors... then lemme help you! Oh, by the way, I brought some Fried Radish Balls with me, help yourself! Don't eat too many, though \u2014 too much oily stuff is hard work for your body. If you're still hungry, I also brought a freshly washed radish and some vinegar, so I could make you a shredded radish salad if you want~",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Character_Yaoyao_Full_Wish.png/"
+    },
+    {
+        "name": "Yelan",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words \u2014 you scratch my back, I'll scratch yours.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Yelan_Full_Wish.png/"
+    },
+    {
+        "name": "Yoimiya",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "Welcome to Naganohara! My name is Yoimiya just let me know if you need anything! We have Kushikatsu, Egg Roll... Wait, no, we're not a restaurant. We make fireworks! Like these, see? Sparkling, crackling, little fireworks~",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Character_Yoimiya_Full_Wish.png/"
+    },
+    {
+        "name": "Yun Jin",
+        "item_type": "FourStarCharacter",
+        "description": "As the saying goes, you never truly know someone until you meet them in person, and at long last, I finally have the great honor of meeting you today. My name is Yun Jin, and I am humbled to be the director of of the Yun-Han Opera Troupe. We have been performing at Heyu Tea House as of late, and we'd be honored to have you attend a performance sometime.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Yun_Jin_Full_Wish.png/"
+    },
+    {
+        "name": "Zhongli",
+        "item_type": "FiveStarCharacterLimited",
+        "description": "A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave... I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png/"
+    },
+    {
+        "name": "A Thousand Floating Dreams",
+        "item_type": "FiveStarWeapon",
+        "description": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_A_Thousand_Floating_Dreams.png/"
+    },
+    {
+        "name": "Amos' Bow",
+        "item_type": "FiveStarWeapon",
+        "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png/"
+    },
+    {
+        "name": "Aqua Simulacra",
+        "item_type": "FiveStarWeapon",
+        "description": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Aqua_Simulacra.png/"
+    },
+    {
+        "name": "Aquila Favonia",
+        "item_type": "FiveStarWeapon",
+        "description": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil \u2014 just like the last heroine who wielded it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png/"
+    },
+    {
+        "name": "Beacon of the Reed Sea",
+        "item_type": "FiveStarWeapon",
+        "description": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Beacon_of_the_Reed_Sea.png/"
+    },
+    {
+        "name": "Calamity Queller",
+        "item_type": "FiveStarWeapon",
+        "description": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Weapon_Calamity_Queller.png/"
+    },
+    {
+        "name": "Elegy for the End",
+        "item_type": "FiveStarWeapon",
+        "description": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/"
+    },
+    {
+        "name": "Engulfing Lightning",
+        "item_type": "FiveStarWeapon",
+        "description": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Engulfing_Lightning.png/"
+    },
+    {
+        "name": "Everlasting Moonglow",
+        "item_type": "FiveStarWeapon",
+        "description": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Weapon_Everlasting_Moonglow.png/"
+    },
+    {
+        "name": "Freedom-Sworn",
+        "item_type": "FiveStarWeapon",
+        "description": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Freedom-Sworn.png/"
+    },
+    {
+        "name": "Haran Geppaku Futsu",
+        "item_type": "FiveStarWeapon",
+        "description": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Haran_Geppaku_Futsu.png/"
+    },
+    {
+        "name": "Hunter's Path",
+        "item_type": "FiveStarWeapon",
+        "description": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Hunter%27s_Path.png/"
+    },
+    {
+        "name": "Jadefall's Splendor",
+        "item_type": "FiveStarWeapon",
+        "description": "A ritual vessel carved from jade that reflects the luster of the skies and the clear waters.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Jadefall%27s_Splendor.png/"
+    },
+    {
+        "name": "Kagura's Verity",
+        "item_type": "FiveStarWeapon",
+        "description": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Weapon_Kagura%27s_Verity.png/"
+    },
+    {
+        "name": "Key of Khaj-Nisut",
+        "item_type": "FiveStarWeapon",
+        "description": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Key_of_Khaj-Nisut.png/"
+    },
+    {
+        "name": "Light of Foliar Incision",
+        "item_type": "FiveStarWeapon",
+        "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Light_of_Foliar_Incision.png/"
+    },
+    {
+        "name": "Lost Prayer to the Sacred Winds",
+        "item_type": "FiveStarWeapon",
+        "description": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png/"
+    },
+    {
+        "name": "Memory of Dust",
+        "item_type": "FiveStarWeapon",
+        "description": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Memory_of_Dust.png/"
+    },
+    {
+        "name": "Mistsplitter Reforged",
+        "item_type": "FiveStarWeapon",
+        "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png/"
+    },
+    {
+        "name": "Polar Star",
+        "item_type": "FiveStarWeapon",
+        "description": "A pristine bow that is as sharp as the glaciers of the far north.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Polar_Star.png/"
+    },
+    {
+        "name": "Primordial Jade Cutter",
+        "item_type": "FiveStarWeapon",
+        "description": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png/"
+    },
+    {
+        "name": "Primordial Jade Winged-Spear",
+        "item_type": "FiveStarWeapon",
+        "description": "A jade polearm made by the archons, capable of slaying ancient beasts.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png/"
+    },
+    {
+        "name": "Redhorn Stonethresher",
+        "item_type": "FiveStarWeapon",
+        "description": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Redhorn_Stonethresher.png/"
+    },
+    {
+        "name": "Skyward Atlas",
+        "item_type": "FiveStarWeapon",
+        "description": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png/"
+    },
+    {
+        "name": "Skyward Blade",
+        "item_type": "FiveStarWeapon",
+        "description": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png/"
+    },
+    {
+        "name": "Skyward Harp",
+        "item_type": "FiveStarWeapon",
+        "description": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png/"
+    },
+    {
+        "name": "Skyward Pride",
+        "item_type": "FiveStarWeapon",
+        "description": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png/"
+    },
+    {
+        "name": "Skyward Spine",
+        "item_type": "FiveStarWeapon",
+        "description": "A polearm that symbolizes Dvalin's fire resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Skyward_Spine.png/"
+    },
+    {
+        "name": "Song of Broken Pines",
+        "item_type": "FiveStarWeapon",
+        "description": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Song_of_Broken_Pines.png/"
+    },
+    {
+        "name": "Staff of Homa",
+        "item_type": "FiveStarWeapon",
+        "description": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/"
+    },
+    {
+        "name": "Staff of the Scarlet Sands",
+        "item_type": "FiveStarWeapon",
+        "description": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Staff_of_the_Scarlet_Sands.png/"
+    },
+    {
+        "name": "Summit Shaper",
+        "item_type": "FiveStarWeapon",
+        "description": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Summit_Shaper.png/"
+    },
+    {
+        "name": "The Unforged",
+        "item_type": "FiveStarWeapon",
+        "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_The_Unforged.png/"
+    },
+    {
+        "name": "Thundering Pulse",
+        "item_type": "FiveStarWeapon",
+        "description": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_Thundering_Pulse.png/"
+    },
+    {
+        "name": "Tulaytullah's Remembrance",
+        "item_type": "FiveStarWeapon",
+        "description": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Tulaytullah%27s_Remembrance.png/"
+    },
+    {
+        "name": "Vortex Vanquisher",
+        "item_type": "FiveStarWeapon",
+        "description": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Weapon_Vortex_Vanquisher.png/"
+    },
+    {
+        "name": "Wolf's Gravestone",
+        "item_type": "FiveStarWeapon",
+        "description": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png/"
+    },
+    {
+        "name": "\"The Catch\"",
+        "item_type": "FourStarWeapon",
+        "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Weapon_The_Catch.png/"
+    },
+    {
+        "name": "Akuoumaru",
+        "item_type": "FourStarWeapon",
+        "description": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Weapon_Akuoumaru.png/"
+    },
+    {
+        "name": "Alley Hunter",
+        "item_type": "FourStarWeapon",
+        "description": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Weapon_Alley_Hunter.png/"
+    },
+    {
+        "name": "Amenoma Kageuchi",
+        "item_type": "FourStarWeapon",
+        "description": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Weapon_Amenoma_Kageuchi.png/"
+    },
+    {
+        "name": "Blackcliff Agate",
+        "item_type": "FourStarWeapon",
+        "description": "A mysterious catalyst made of blackstone. It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Weapon_Blackcliff_Agate.png/"
+    },
+    {
+        "name": "Blackcliff Longsword",
+        "item_type": "FourStarWeapon",
+        "description": "A sword made of blackstone. It has a dark crimson glow on its black blade.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Weapon_Blackcliff_Longsword.png/"
+    },
+    {
+        "name": "Blackcliff Pole",
+        "item_type": "FourStarWeapon",
+        "description": "A weapon made of blackstone and aerosiderite. There is a dark crimson glow on its cold black sheen.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Weapon_Blackcliff_Pole.png/"
+    },
+    {
+        "name": "Blackcliff Slasher",
+        "item_type": "FourStarWeapon",
+        "description": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to the pommel.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Weapon_Blackcliff_Slasher.png/"
+    },
+    {
+        "name": "Blackcliff Warbow",
+        "item_type": "FourStarWeapon",
+        "description": "A bow made of blackstone that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Weapon_Blackcliff_Warbow.png/"
+    },
+    {
+        "name": "Cinnabar Spindle",
+        "item_type": "FourStarWeapon",
+        "description": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Weapon_Cinnabar_Spindle.png/"
+    },
+    {
+        "name": "Compound Bow",
+        "item_type": "FourStarWeapon",
+        "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Compound_Bow.png/"
+    },
+    {
+        "name": "Crescent Pike",
+        "item_type": "FourStarWeapon",
+        "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png/"
+    },
+    {
+        "name": "Deathmatch",
+        "item_type": "FourStarWeapon",
+        "description": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Deathmatch.png/"
+    },
+    {
+        "name": "Dodoco Tales",
+        "item_type": "FourStarWeapon",
+        "description": "A children's book filled with childish short stories at which one cannot help but laugh.Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon_Dodoco_Tales.png/"
+    },
+    {
+        "name": "Dragon's Bane",
+        "item_type": "FourStarWeapon",
+        "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Dragon%27s_Bane.png/"
+    },
+    {
+        "name": "Dragonspine Spear",
+        "item_type": "FourStarWeapon",
+        "description": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Weapon_Dragonspine_Spear.png/"
+    },
+    {
+        "name": "End of the Line",
+        "item_type": "FourStarWeapon",
+        "description": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_End_of_the_Line.png/"
+    },
+    {
+        "name": "Eye of Perception",
+        "item_type": "FourStarWeapon",
+        "description": "A dim black glaze pearl that is said to have the power to reach the purity of one's heart.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png/"
+    },
+    {
+        "name": "Fading Twilight",
+        "item_type": "FourStarWeapon",
+        "description": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Weapon_Fading_Twilight.png/"
+    },
+    {
+        "name": "Favonius Codex",
+        "item_type": "FourStarWeapon",
+        "description": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png/"
+    },
+    {
+        "name": "Favonius Greatsword",
+        "item_type": "FourStarWeapon",
+        "description": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Favonius_Greatsword.png/"
+    },
+    {
+        "name": "Favonius Lance",
+        "item_type": "FourStarWeapon",
+        "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Weapon_Favonius_Lance.png/"
+    },
+    {
+        "name": "Favonius Sword",
+        "item_type": "FourStarWeapon",
+        "description": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Favonius_Sword.png/"
+    },
+    {
+        "name": "Favonius Warbow",
+        "item_type": "FourStarWeapon",
+        "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Favonius_Warbow.png/"
+    },
+    {
+        "name": "Festering Desire",
+        "item_type": "FourStarWeapon",
+        "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Weapon_Festering_Desire.png/"
+    },
+    {
+        "name": "Forest Regalia",
+        "item_type": "FourStarWeapon",
+        "description": "It has taken on the shape of a greatsword that shall cut down the foes of the forest",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon_Forest_Regalia.png/"
+    },
+    {
+        "name": "Frostbearer",
+        "item_type": "FourStarWeapon",
+        "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Frostbearer.png/"
+    },
+    {
+        "name": "Fruit of Fulfillment",
+        "item_type": "FourStarWeapon",
+        "description": "It holds the potential to conquer any crisis.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Fruit_of_Fulfillment.png/"
+    },
+    {
+        "name": "Hakushin Ring",
+        "item_type": "FourStarWeapon",
+        "description": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Weapon_Hakushin_Ring.png/"
+    },
+    {
+        "name": "Hamayumi",
+        "item_type": "FourStarWeapon",
+        "description": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Weapon_Hamayumi.png/"
+    },
+    {
+        "name": "Ibis Piercer",
+        "item_type": "FourStarWeapon",
+        "description": "A golden bow forged from the description in the story. If you use it as a normal weapon, you can also view it as a part of a fictional world that has made it off the pages.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Weapon_Ibis_Piercer.png/"
+    },
+    {
+        "name": "Iron Sting",
+        "item_type": "FourStarWeapon",
+        "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Iron_Sting.png/"
+    },
+    {
+        "name": "Kagotsurube Isshin",
+        "item_type": "FourStarWeapon",
+        "description": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Weapon_Kagotsurube_Isshin.png/"
+    },
+    {
+        "name": "Katsuragikiri Nagamasa",
+        "item_type": "FourStarWeapon",
+        "description": "A blade that was once made in Tatarasuna. Heavy and tough.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Weapon_Katsuragikiri_Nagamasa.png/"
+    },
+    {
+        "name": "King's Squire",
+        "item_type": "FourStarWeapon",
+        "description": "It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Weapon_King%27s_Squire.png/"
+    },
+    {
+        "name": "Kitain Cross Spear",
+        "item_type": "FourStarWeapon",
+        "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Weapon_Kitain_Cross_Spear.png/"
+    },
+    {
+        "name": "Lion's Roar",
+        "item_type": "FourStarWeapon",
+        "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png/"
+    },
+    {
+        "name": "Lithic Blade",
+        "item_type": "FourStarWeapon",
+        "description": "A greatsword carved and chiseled from the very bedrock of Liyue.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Lithic_Blade.png/"
+    },
+    {
+        "name": "Lithic Spear",
+        "item_type": "FourStarWeapon",
+        "description": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Lithic_Spear.png/"
+    },
+    {
+        "name": "Luxurious Sea-Lord",
+        "item_type": "FourStarWeapon",
+        "description": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Luxurious_Sea-Lord.png/"
+    },
+    {
+        "name": "Mailed Flower",
+        "item_type": "FourStarWeapon",
+        "description": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Weapon_Mailed_Flower.png/"
+    },
+    {
+        "name": "Makhaira Aquamarine",
+        "item_type": "FourStarWeapon",
+        "description": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Makhaira_Aquamarine.png/"
+    },
+    {
+        "name": "Mappa Mare",
+        "item_type": "FourStarWeapon",
+        "description": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png/"
+    },
+    {
+        "name": "Missive Windspear",
+        "item_type": "FourStarWeapon",
+        "description": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Weapon_Missive_Windspear.png/"
+    },
+    {
+        "name": "Mitternachts Waltz",
+        "item_type": "FourStarWeapon",
+        "description": "A bow painted the color of transgression and nights of illusion.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_Mitternachts_Waltz.png/"
+    },
+    {
+        "name": "Moonpiercer",
+        "item_type": "FourStarWeapon",
+        "description": "It is shaped like a giant arrow and can be used as a spear.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Weapon_Moonpiercer.png/"
+    },
+    {
+        "name": "Mouun's Moon",
+        "item_type": "FourStarWeapon",
+        "description": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Weapon_Mouun%27s_Moon.png/"
+    },
+    {
+        "name": "Oathsworn Eye",
+        "item_type": "FourStarWeapon",
+        "description": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Weapon_Oathsworn_Eye.png/"
+    },
+    {
+        "name": "Predator",
+        "item_type": "FourStarWeapon",
+        "description": "A uniquely designed bow. This should not belong in this world.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Weapon_Predator.png/"
+    },
+    {
+        "name": "Prototype Amber",
+        "item_type": "FourStarWeapon",
+        "description": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Prototype_Amber.png/"
+    },
+    {
+        "name": "Prototype Archaic",
+        "item_type": "FourStarWeapon",
+        "description": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Prototype_Archaic.png/"
+    },
+    {
+        "name": "Prototype Crescent",
+        "item_type": "FourStarWeapon",
+        "description": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Prototype_Crescent.png/"
+    },
+    {
+        "name": "Prototype Rancour",
+        "item_type": "FourStarWeapon",
+        "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Prototype_Rancour.png/"
+    },
+    {
+        "name": "Prototype Starglitter",
+        "item_type": "FourStarWeapon",
+        "description": "A grudge discovered in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Weapon_Prototype_Starglitter.png/"
+    },
+    {
+        "name": "Rainslasher",
+        "item_type": "FourStarWeapon",
+        "description": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Rainslasher.png/"
+    },
+    {
+        "name": "Royal Bow",
+        "item_type": "FourStarWeapon",
+        "description": "An old royal longbow that belonged to the erstwhile rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Bow.png/"
+    },
+    {
+        "name": "Royal Greatsword",
+        "item_type": "FourStarWeapon",
+        "description": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by royals only.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Weapon_Royal_Greatsword.png/"
+    },
+    {
+        "name": "Royal Grimoire",
+        "item_type": "FourStarWeapon",
+        "description": "A book that once belonged to a royal mage of Mondstadt. It contains faithful and comprehensive historical accounts as well as magic spells.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Grimoire.png/"
+    },
+    {
+        "name": "Royal Longsword",
+        "item_type": "FourStarWeapon",
+        "description": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Royal_Longsword.png/"
+    },
+    {
+        "name": "Royal Spear",
+        "item_type": "FourStarWeapon",
+        "description": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Weapon_Royal_Spear.png/"
+    },
+    {
+        "name": "Rust",
+        "item_type": "FourStarWeapon",
+        "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Rust.png/"
+    },
+    {
+        "name": "Sacrificial Bow",
+        "item_type": "FourStarWeapon",
+        "description": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png/"
+    },
+    {
+        "name": "Sacrificial Fragments",
+        "item_type": "FourStarWeapon",
+        "description": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png/"
+    },
+    {
+        "name": "Sacrificial Greatsword",
+        "item_type": "FourStarWeapon",
+        "description": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sacrificial_Greatsword.png/"
+    },
+    {
+        "name": "Sacrificial Sword",
+        "item_type": "FourStarWeapon",
+        "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Sacrificial_Sword.png/"
+    },
+    {
+        "name": "Sapwood Blade",
+        "item_type": "FourStarWeapon",
+        "description": "It has taken on the shape of a blade that can cut down the foes of the forest.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Weapon_Sapwood_Blade.png/"
+    },
+    {
+        "name": "Serpent Spine",
+        "item_type": "FourStarWeapon",
+        "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png/"
+    },
+    {
+        "name": "Snow-Tombed Starsilver",
+        "item_type": "FourStarWeapon",
+        "description": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Weapon_Snow-Tombed_Starsilver.png/"
+    },
+    {
+        "name": "Solar Pearl",
+        "item_type": "FourStarWeapon",
+        "description": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon, and pulses with a warm strength.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Solar_Pearl.png/"
+    },
+    {
+        "name": "Sword of Descension",
+        "item_type": "FourStarWeapon",
+        "description": "A sword of unique craftsmanship. It does not appear to belong to this world.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sword_of_Descension.png/"
+    },
+    {
+        "name": "The Alley Flash",
+        "item_type": "FourStarWeapon",
+        "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_The_Alley_Flash.png/"
+    },
+    {
+        "name": "The Bell",
+        "item_type": "FourStarWeapon",
+        "description": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_The_Bell.png/"
+    },
+    {
+        "name": "The Black Sword",
+        "item_type": "FourStarWeapon",
+        "description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png/"
+    },
+    {
+        "name": "The Flute",
+        "item_type": "FourStarWeapon",
+        "description": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Weapon_The_Flute.png/"
+    },
+    {
+        "name": "The Stringless",
+        "item_type": "FourStarWeapon",
+        "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_The_Stringless.png/"
+    },
+    {
+        "name": "The Viridescent Hunt",
+        "item_type": "FourStarWeapon",
+        "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_The_Viridescent_Hunt.png/"
+    },
+    {
+        "name": "The Widsith",
+        "item_type": "FourStarWeapon",
+        "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_The_Widsith.png/"
+    },
+    {
+        "name": "Toukabou Shigure",
+        "item_type": "FourStarWeapon",
+        "description": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Toukabou_Shigure.png/"
+    },
+    {
+        "name": "Wandering Evenstar",
+        "item_type": "FourStarWeapon",
+        "description": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Wandering_Evenstar.png/"
+    },
+    {
+        "name": "Wavebreaker's Fin",
+        "item_type": "FourStarWeapon",
+        "description": "A naginata forged from luminscent material deep in the ocean depths. It was once the possession of the tengu race.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Weapon_Wavebreaker%27s_Fin.png/"
+    },
+    {
+        "name": "Whiteblind",
+        "item_type": "FourStarWeapon",
+        "description": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Weapon_Whiteblind.png/"
+    },
+    {
+        "name": "Windblume Ode",
+        "item_type": "FourStarWeapon",
+        "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Windblume_Ode.png/"
+    },
+    {
+        "name": "Wine and Song",
+        "item_type": "FourStarWeapon",
+        "description": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Wine_and_Song.png/"
+    },
+    {
+        "name": "Xiphos' Moonlight",
+        "item_type": "FourStarWeapon",
+        "description": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Weapon_Xiphos%27_Moonlight.png/"
+    },
+    {
+        "name": "Black Tassel",
+        "item_type": "ThreeStarItem",
+        "description": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Black_Tassel.png/"
+    },
+    {
+        "name": "Bloodtainted Greatsword",
+        "item_type": "ThreeStarItem",
+        "description": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png/"
+    },
+    {
+        "name": "Cool Steel",
+        "item_type": "ThreeStarItem",
+        "description": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Cool_Steel.png/"
+    },
+    {
+        "name": "Dark Iron Sword",
+        "item_type": "ThreeStarItem",
+        "description": "A perfectly ordinary iron sword, just slightly darker than most.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Dark_Iron_Sword.png/"
+    },
+    {
+        "name": "Debate Club",
+        "item_type": "ThreeStarItem",
+        "description": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png/"
+    },
+    {
+        "name": "Emerald Orb",
+        "item_type": "ThreeStarItem",
+        "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png/"
+    },
+    {
+        "name": "Ferrous Shadow",
+        "item_type": "ThreeStarItem",
+        "description": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Weapon_Ferrous_Shadow.png/"
+    },
+    {
+        "name": "Fillet Blade",
+        "item_type": "ThreeStarItem",
+        "description": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png/"
+    },
+    {
+        "name": "Halberd",
+        "item_type": "ThreeStarItem",
+        "description": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png/"
+    },
+    {
+        "name": "Harbinger of Dawn",
+        "item_type": "ThreeStarItem",
+        "description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png/"
+    },
+    {
+        "name": "Magic Guide",
+        "item_type": "ThreeStarItem",
+        "description": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png/"
+    },
+    {
+        "name": "Messenger",
+        "item_type": "ThreeStarItem",
+        "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png/"
+    },
+    {
+        "name": "Otherworldly Story",
+        "item_type": "ThreeStarItem",
+        "description": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png/"
+    },
+    {
+        "name": "Raven Bow",
+        "item_type": "ThreeStarItem",
+        "description": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Weapon_Raven_Bow.png/"
+    },
+    {
+        "name": "Recurve Bow",
+        "item_type": "ThreeStarItem",
+        "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png/"
+    },
+    {
+        "name": "Sharpshooter's Oath",
+        "item_type": "ThreeStarItem",
+        "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png/"
+    },
+    {
+        "name": "Skyrider Greatsword",
+        "item_type": "ThreeStarItem",
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Skyrider_Greatsword.png/"
+    },
+    {
+        "name": "Skyrider Sword",
+        "item_type": "ThreeStarItem",
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png/"
+    },
+    {
+        "name": "Slingshot",
+        "item_type": "ThreeStarItem",
+        "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Slingshot.png/"
+    },
+    {
+        "name": "Thrilling Tales of Dragon Slayers",
+        "item_type": "ThreeStarItem",
+        "description": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Thrilling_Tales_of_Dragon_Slayers.png/"
+    },
+    {
+        "name": "Traveler's Handy Sword",
+        "item_type": "ThreeStarItem",
+        "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Weapon_Traveler%27s_Handy_Sword.png/"
+    },
+    {
+        "name": "Twin Nephrite",
+        "item_type": "ThreeStarItem",
+        "description": "A jade pendant formed by piecing together two jade stones.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png/"
+    },
+    {
+        "name": "White Iron Greatsword",
+        "item_type": "ThreeStarItem",
+        "description": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Weapon_White_Iron_Greatsword.png/"
+    },
+    {
+        "name": "White Tassel",
+        "item_type": "ThreeStarItem",
+        "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png/"
+    },
+    {
+        "name": "Iron Point",
+        "item_type": "ThreeStarItem",
+        "description": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Iron_Point.png/"
+    },
+    {
+        "name": "Old Merc's Pal",
+        "item_type": "ThreeStarItem",
+        "description": "A battle-tested greatsword that has seen better days and worse.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Old_Merc%27s_Pal.png/"
+    },
+    {
+        "name": "Pocket Grimoire",
+        "item_type": "ThreeStarItem",
+        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Weapon_Pocket_Grimoire.png/"
+    },
+    {
+        "name": "Seasoned Hunter's Bow",
+        "item_type": "ThreeStarItem",
+        "description": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Seasoned_Hunter%27s_Bow.png/"
+    },
+    {
+        "name": "Silver Sword",
+        "item_type": "ThreeStarItem",
+        "description": "A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Silver_Sword.png/"
+    },
+    {
+        "name": "Apprentice's Notes",
+        "item_type": "ThreeStarItem",
+        "description": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_Apprentice%27s_Notes.png/"
+    },
+    {
+        "name": "Beginner's Protector",
+        "item_type": "ThreeStarItem",
+        "description": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Beginner%27s_Protector.png/"
+    },
+    {
+        "name": "Dull Blade",
+        "item_type": "ThreeStarItem",
+        "description": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Weapon_Dull_Blade.png/"
+    },
+    {
+        "name": "Hunter's Bow",
+        "item_type": "ThreeStarItem",
+        "description": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Hunter%27s_Bow.png/"
+    },
+    {
+        "name": "Waster Greatsword",
+        "item_type": "ThreeStarItem",
+        "description": "A sturdy sheet of iron that may be powerful enough to break apart mountains, if wielded with enough willpower.",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Waster_Greatsword.png/"
+    }
+]
